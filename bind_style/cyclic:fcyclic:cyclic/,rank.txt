@@ -1,0 +1,38 @@
+srun: Job 27543854 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 27543854
+ 0: cpu-bind=RANK - s10r1b07, task  0  0 [158583]: mask 0x1 set
+ 0: cpu-bind=RANK - s10r1b07, task  2  1 [158584]: mask 0x2 set
+ 0: cpu-bind=RANK - s10r1b07, task  4  2 [158585]: mask 0x4 set
+ 0: cpu-bind=RANK - s10r1b07, task  6  3 [158586]: mask 0x8 set
+ 0: cpu-bind=RANK - s10r1b07, task  8  4 [158587]: mask 0x10 set
+ 0: cpu-bind=RANK - s10r1b07, task 10  5 [158588]: mask 0x20 set
+ 1: cpu-bind=RANK - s14r1b64, task  1  0 [314299]: mask 0x1 set
+ 1: cpu-bind=RANK - s14r1b64, task  3  1 [314300]: mask 0x2 set
+ 1: cpu-bind=RANK - s14r1b64, task  5  2 [314301]: mask 0x4 set
+ 1: cpu-bind=RANK - s14r1b64, task  7  3 [314302]: mask 0x8 set
+ 1: cpu-bind=RANK - s14r1b64, task  9  4 [314303]: mask 0x10 set
+ 1: cpu-bind=RANK - s14r1b64, task 11  5 [314304]: mask 0x20 set
+ 4: 2 : [2] : 0
+ 0: 0 : [0] : 0
+ 6: 3 : [3] : 0
+ 8: 4 : [4] : 0
+ 4: 2 : [2] : 0
+ 0: 0 : [0] : 0
+ 6: 3 : [3] : 0
+ 8: 4 : [4] : 0
+ 2: 1 : [1] : 0
+10: 5 : [5] : 0
+ 1: 0 : [0] : 1
+ 1: 0 : [0] : 1
+ 2: 1 : [1] : 0
+10: 5 : [5] : 0
+ 5: 2 : [2] : 1
+ 5: 2 : [2] : 1
+ 9: 4 : [4] : 1
+11: 5 : [5] : 1
+ 3: 1 : [1] : 1
+ 7: 3 : [3] : 1
+ 3: 1 : [1] : 1
+ 7: 3 : [3] : 1
+ 9: 4 : [4] : 1
+11: 5 : [5] : 1

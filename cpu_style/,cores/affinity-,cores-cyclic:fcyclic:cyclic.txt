@@ -1,0 +1,36 @@
+ 1: cpu-bind=MASK - s08r1b55, task  1  0 [37564]: mask 0x1000001 set
+ 1: cpu-bind=MASK - s08r1b55, task  3  1 [37565]: mask 0x2000002 set
+ 1: cpu-bind=MASK - s08r1b55, task  5  2 [37566]: mask 0x4000004 set
+ 1: cpu-bind=MASK - s08r1b55, task  7  3 [37567]: mask 0x8000008 set
+ 1: cpu-bind=MASK - s08r1b55, task  9  4 [37568]: mask 0x10000010 set
+ 1: cpu-bind=MASK - s08r1b55, task 11  5 [37569]: mask 0x20000020 set
+ 0: cpu-bind=MASK - s01r1b31, task  0  0 [39537]: mask 0x1000001 set
+ 0: cpu-bind=MASK - s01r1b31, task  2  1 [39538]: mask 0x2000002 set
+ 0: cpu-bind=MASK - s01r1b31, task  4  2 [39539]: mask 0x4000004 set
+ 0: cpu-bind=MASK - s01r1b31, task  6  3 [39540]: mask 0x8000008 set
+ 0: cpu-bind=MASK - s01r1b31, task  8  4 [39541]: mask 0x10000010 set
+ 0: cpu-bind=MASK - s01r1b31, task 10  5 [39542]: mask 0x20000020 set
+10: 5 : [5, 29] : 0
+10: 5 : [5, 29] : 0
+ 2: 1 : [1, 25] : 0
+ 0: 24 : [0, 24] : 0
+ 8: 4 : [4, 28] : 0
+ 4: 26 : [2, 26] : 0
+ 0: 0 : [0, 24] : 0
+ 2: 25 : [1, 25] : 0
+ 4: 2 : [2, 26] : 0
+ 6: 3 : [3, 27] : 0
+ 6: 27 : [3, 27] : 0
+ 8: 28 : [4, 28] : 0
+ 3: 25 : [1, 25] : 1
+ 3: 1 : [1, 25] : 1
+ 5: 26 : [2, 26] : 1
+ 7: 3 : [3, 27] : 1
+ 9: 4 : [4, 28] : 1
+ 1: 0 : [0, 24] : 1
+ 5: 2 : [2, 26] : 1
+ 1: 24 : [0, 24] : 1
+ 9: 28 : [4, 28] : 1
+11: 29 : [5, 29] : 1
+11: 5 : [5, 29] : 1
+ 7: 27 : [3, 27] : 1

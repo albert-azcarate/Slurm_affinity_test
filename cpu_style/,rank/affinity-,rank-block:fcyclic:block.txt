@@ -1,0 +1,36 @@
+ 0: cpu-bind=RANK - s01r1b31, task  0  0 [35185]: mask 0x1 set
+ 0: cpu-bind=RANK - s01r1b31, task  1  1 [35186]: mask 0x2 set
+ 0: cpu-bind=RANK - s01r1b31, task  2  2 [35187]: mask 0x4 set
+ 0: cpu-bind=RANK - s01r1b31, task  3  3 [35188]: mask 0x8 set
+ 0: cpu-bind=RANK - s01r1b31, task  4  4 [35189]: mask 0x10 set
+ 0: cpu-bind=RANK - s01r1b31, task  5  5 [35190]: mask 0x20 set
+ 6: cpu-bind=RANK - s08r1b55, task  6  0 [34355]: mask 0x1 set
+ 6: cpu-bind=RANK - s08r1b55, task  7  1 [34356]: mask 0x2 set
+ 6: cpu-bind=RANK - s08r1b55, task  8  2 [34357]: mask 0x4 set
+ 6: cpu-bind=RANK - s08r1b55, task  9  3 [34358]: mask 0x8 set
+ 6: cpu-bind=RANK - s08r1b55, task 10  4 [34359]: mask 0x10 set
+ 6: cpu-bind=RANK - s08r1b55, task 11  5 [34360]: mask 0x20 set
+ 1: 1 : [1] : 0
+ 0: 0 : [0] : 0
+ 5: 5 : [5] : 0
+ 2: 2 : [2] : 0
+ 4: 4 : [4] : 0
+ 3: 3 : [3] : 0
+ 1: 1 : [1] : 0
+ 4: 4 : [4] : 0
+ 5: 5 : [5] : 0
+ 2: 2 : [2] : 0
+ 0: 0 : [0] : 0
+ 3: 3 : [3] : 0
+ 6: 0 : [0] : 1
+11: 5 : [5] : 1
+10: 4 : [4] : 1
+ 8: 2 : [2] : 1
+ 7: 1 : [1] : 1
+ 9: 3 : [3] : 1
+ 6: 0 : [0] : 1
+11: 5 : [5] : 1
+ 9: 3 : [3] : 1
+ 8: 2 : [2] : 1
+10: 4 : [4] : 1
+ 7: 1 : [1] : 1
